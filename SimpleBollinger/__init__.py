@@ -1,9 +1,20 @@
+  
+"""
+Simple Bollinger Bands Strategy
+Timeframe: 1h
+Repo: https://github.com/gabrielweich/jesse-strategies
+When the price closes above the upperband in an uptrend (determined by the ichimoku cloud),
+it gives a long signal indicating a possible continuation of the uptrend.
+The position can also be closed when the price closes below lowerband, but the best results
+were achieved when using the middleband instead.
+"""
+
 from jesse.strategies import Strategy
 import jesse.indicators as ta
 from jesse import utils
 
 
-class Surfistinha(Strategy):
+class SimpleBollinger(Strategy):
     @property
     def bb(self):
         # Bollinger bands using default parameters and hl2 as source
