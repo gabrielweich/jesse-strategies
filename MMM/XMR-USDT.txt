@@ -1,0 +1,36 @@
+loading candles...
+ CANDLES              |
+----------------------+--------------------------
+ period               |    580 days (1.59 years)
+ starting-ending date | 2019-06-01 => 2021-01-01
+
+
+ exchange   | symbol   | timeframe   | strategy   | DNA
+------------+----------+-------------+------------+-------
+ Binance    | XMR-USDT | 6h          | MMM        |
+
+
+Executing simulation...  [####################################]  100%
+Executed backtest simulation in:  25.29 seconds
+
+
+ METRICS                         |
+---------------------------------+------------------------------
+ Total Closed Trades             |                           75
+ Total Net Profit                |        14,787.9204 (147.88%)
+ Starting => Finishing Balance   |          10,000 => 24,787.92
+ Total Open Trades               |                            0
+ Open PL                         |                            0
+ Total Paid Fees                 |                     2,228.56
+ Max Drawdown                    |                      -13.34%
+ Annual Return                   |                       76.88%
+ Expectancy                      |               197.17 (1.97%)
+ Avg Win | Avg Loss              |              558.57 | 483.93
+ Ratio Avg Win / Avg Loss        |                         1.15
+ Percent Profitable              |                          65%
+ Longs | Shorts                  |                    100% | 0%
+ Avg Holding Time                |  1 day, 15 hours, 31 minutes
+ Winning Trades Avg Holding Time |   1 day, 2 hours, 41 minutes
+ Losing Trades Avg Holding Time  | 2 days, 15 hours, 41 minutes
+ Sharpe Ratio                    |                         1.85
+ Market Change                   |                       67.53%
