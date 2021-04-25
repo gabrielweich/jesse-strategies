@@ -1,5 +1,5 @@
 """
-Larry Willliams RSI4 Strategy
+Larry Connors RSI4 Strategy
 Reference: - High Probability ETF trading pg.23
 """
 
