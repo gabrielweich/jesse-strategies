@@ -1,0 +1,36 @@
+loading candles...
+ CANDLES              |
+----------------------+--------------------------
+ period               |    701 days (1.92 years)
+ starting-ending date | 2019-05-05 => 2021-04-05
+
+
+ exchange   | symbol   | timeframe   | strategy        | DNA
+------------+----------+-------------+-----------------+-------
+ Binance    | ADA-USDT | 1h          | SimpleBollinger |
+
+
+Executing simulation...  [####################################]  100%
+Executed backtest simulation in:  37.38 seconds
+
+
+ METRICS                         |
+---------------------------------+---------------------------------
+ Total Closed Trades             |                             283
+ Total Net Profit                |            35,470.2193 (354.7%)
+ Starting => Finishing Balance   |             10,000 => 45,470.22
+ Total Open Trades               |                               0
+ Open PL                         |                               0
+ Total Paid Fees                 |                        9,409.01
+ Max Drawdown                    |                         -36.59%
+ Annual Return                   |                         119.78%
+ Expectancy                      |                  125.34 (1.25%)
+ Avg Win | Avg Loss              |               1,026.28 | 374.64
+ Ratio Avg Win / Avg Loss        |                            2.74
+ Percent Profitable              |                             36%
+ Longs | Shorts                  |                       100% | 0%
+ Avg Holding Time                | 15 hours, 13 minutes, 8 seconds
+ Winning Trades Avg Holding Time |       1 day, 1 hour, 47 minutes
+ Losing Trades Avg Holding Time  |  9 hours, 21 minutes, 5 seconds
+ Sharpe Ratio                    |                            1.48
+ Market Change                   |                        1664.01%
