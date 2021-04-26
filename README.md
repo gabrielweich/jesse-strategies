@@ -1,6 +1,5 @@
-# My Jesse Profitable Strategies
+# My Jesse Strategies
 
-## SimpleBollinger
-
-### Timeframe: 1h
-### Tested pairs: BTC-USDT and ETH-USDT
+### Observations:
+- The backtest period may vary according to the availability of the data
+- Keep in mind that past performance is no guarantee of future results.

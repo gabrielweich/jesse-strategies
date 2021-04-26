@@ -7,7 +7,7 @@ loading candles...
 
  exchange   | symbol   | timeframe   | strategy   | DNA
 ------------+----------+-------------+------------+-------
- Binance    | NEO-USDT | 6h          | Donchain   |
+ Binance    | NEO-USDT | 6h          | Donchian   |
 
 
 Executing simulation...  [####################################]  100%
